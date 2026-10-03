@@ -2,10 +2,10 @@
 <!-- <p align="center">
   <img src="https://i.imgur.com/7yUVE2g.png" alt="banner" width="100%" />
 </p> -->
-> # Hi, I am Mahir Tanzim
+> <h1 align= "center">Hi, I am Mahir Tanzim </h1>
 <!-- TYPING HEADER -->
 
-> ![Intro](https://readme-typing-svg.herokuapp.com?size=30&color=00FFEE&center=true&vCenter=true&width=650&lines=Hi+I'm+Mahir+Tanzim;Software+Engineer;Competitive+Programmer;CSE+Graduate)
+> ![Intro](https://readme-typing-svg.herokuapp.com?size=30&color=00FFEE&center=true&vCenter=true&width=650&lines=Competitive+Programming;Software+Engineering;Data+Driven+Analysis;Scientific+Programming;Algorithmic+Design;Machine+Learning;Natural+Language+Processing)
 
 
 <p align="center">
