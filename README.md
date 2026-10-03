@@ -5,7 +5,11 @@
 > <h1 align= "center">Hi, I am Mahir Tanzim </h1>
 <!-- TYPING HEADER -->
 
-> ![Intro](https://readme-typing-svg.herokuapp.com?size=30&color=00FFEE&center=true&vCenter=true&width=650&lines=Competitive+Programming;Software+Engineering;Data+Driven+Analysis;Scientific+Programming;Algorithmic+Design;Machine+Learning;Natural+Language+Processing)
+
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FFEE&center=true&vCenter=true&width=650&lines=Competitive+Programming;Software+Engineering;Data+Driven+Analysis;Scientific+Programming;Algorithmic+Design;Machine+Learning;Natural+Language+Processing" alt="Typing SVG" />
+  </p>
 
 
 <p align="center">
