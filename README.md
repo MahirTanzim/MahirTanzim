@@ -4,11 +4,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirTanzim&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="180" src="https://streak-stats.demolab.com?user=MahirTanzim&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirTanzim&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://streak-stats.demolab.com?user=MahirTanzim&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahirTanzim&radius=16&theme=react&area=true&order=5" height="200" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahirTanzim&radius=16&theme=react&area=true&order=5" height="300" alt="Activity Graph" />
 </p>
 ---
 ## 🌐 Connect With Me
