@@ -2,7 +2,7 @@
 — Zaheer, The Legend of Korra
 ---
 ## 📊 GitHub Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MahirTanzim&label=Profile%20views&color=0e75b6&style=flat" alt="mhnayeem01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MahirTanzim&label=Profile%20views&color=0e75b6&style=flat" alt="MahirTanzim" /> </p>
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirTanzim&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img height="150" src="https://streak-stats.demolab.com?user=MahirTanzim&theme=tokyonight&hide_border=true" alt="Top Languages" />
